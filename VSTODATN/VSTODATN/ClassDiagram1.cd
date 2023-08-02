@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="VSTODATN.FunctionsExcel.ExchangeRate">
+    <Position X="2.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FunctionsExcel\ExchangeRate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VSTODATN.FunctionsExcel.ExportJson">
+    <Position X="4" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>FunctionsExcel\ExportJson.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VSTODATN.FunctionsExcel.ImportJson">
+    <Position X="2" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FunctionsExcel\ImportJson.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VSTODATN.FunctionsExcel.Number">
+    <Position X="5.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FunctionsExcel\Number.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VSTODATN.Ribbon">
+    <Position X="4" Y="3" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAQACSAEGAAAAAAAQCCAAAjIAgIIQBAIAIQIAQAAwA=</HashCode>
+      <FileName>Ribbon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VSTODATN.SpeechProcessing">
+    <Position X="6" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>SpeechProcessing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
