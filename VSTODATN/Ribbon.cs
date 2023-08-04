@@ -36,7 +36,6 @@ namespace VSTODATN
         private void buttonImage2Cells_Click(object sender, RibbonControlEventArgs e)
         {
             Bitmap img;
-            const int MAX_HEIGHT = 320;
             const int MAX_PIXEL = 82455; //chính xác đúng ngần này điểm
 
             /// Tạo dialog để chọn file ảnh

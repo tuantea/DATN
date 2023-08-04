@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace VSTODATN.FunctionsExcel
 {
-    internal class Number
+    public class Number
     {
         public static string NumberToText(double inputNumber)
         {

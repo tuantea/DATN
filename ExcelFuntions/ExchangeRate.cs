@@ -1,10 +1,10 @@
-﻿using Newtonsoft.Json;
+﻿
+using Newtonsoft.Json;
 using RestSharp;
-
 
 namespace VSTODATN.FunctionsExcel
 {
-    internal class ExchangeRate
+    public class ExchangeRate
     {
         public static string GetExchangeRate()
         {

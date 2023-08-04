@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\VSTODATN",
+    "\\VSTODATN\\FunctionsExcel"
   ],
-  "SelectedNode": "\\VSTODATN.sln",
+  "SelectedNode": "\\VSTODATN\\FunctionsExcel\\AddIn.cs",
   "PreviewInSolutionExplorer": false
 }
